@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento APP Laravel",
+      "type": "income",
+      "category": "Mão de obra",
+      "price": 10000,
+      "createdAt": "2024-02-02T15:23:54.808Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 500,
+      "createdAt": "2024-02-02T15:23:54.808Z"
+    },
+    {
+      "id": 3,
+      "description": "Coquinha",
+      "type": "outcome",
+      "category": "Bebida",
+      "price": 100,
+      "createdAt": "2024-02-02T15:23:54.808Z"
+    },
+    {
+      "description": "Evolução Clash Royale",
+      "price": 45,
+      "category": "Jogos",
+      "type": "outcome",
+      "createdAt": "2024-02-05T15:20:26.854Z",
+      "id": 4
+    },
+    {
+      "description": "Dinheiro pra Tia Denise",
+      "price": 30,
+      "category": "Investimentos",
+      "type": "outcome",
+      "createdAt": "2024-02-05T15:20:52.383Z",
+      "id": 5
+    },
+    {
+      "description": "Freelas",
+      "price": 400,
+      "category": "Queria mas nn tem",
+      "type": "income",
+      "createdAt": "2024-02-05T15:21:17.842Z",
+      "id": 6
+    },
+    {
+      "description": "Aumento só que não ",
+      "price": 500,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2024-02-05T15:39:40.692Z",
+      "id": 7
+    }
+  ]
+}
