@@ -3,7 +3,6 @@ import { priceFormatter } from "../../Utils/formatter";
 import { SummaryCard, SummaryContainer } from "./styles";
 import { ArrowCircleDown, ArrowCircleUp, CurrencyDollar } from "phosphor-react";
 
-
 export function Summary() {
   const summary = useSummary(); 
   
